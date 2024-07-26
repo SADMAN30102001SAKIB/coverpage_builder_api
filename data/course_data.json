@@ -1,22 +1,22 @@
 {
-  "cse2101": {
-    "code": "CSE 2101",
-    "name": "Discrete Mathematics"
+  "cse2201": {
+    "code": "CSE 2201",
+    "name": "Algorithm Analysis and Design"
   },
-  "cse2103": {
-    "code": "CSE 2103",
-    "name": "Digital Logic Design"
+  "cse2203": {
+    "code": "CSE 2203",
+    "name": "Numerical Methods"
   },
-  "eee2151": {
-    "code": "EEE 2151",
-    "name": "Electrical Drives and Instrumentation"
+  "cse2205": {
+    "code": "CSE 2205",
+    "name": "Microprocessors, Microcontrollers and Assembly Language"
   },
-  "math2113": {
-    "code": "Math 2113",
-    "name": "Vector Analysis and Linear Algebra"
+  "math2213": {
+    "code": "Math 2213",
+    "name": "Complex Variable, Partial Differential Equation and Harmonic Analysis"
   },
-  "hum2113": {
-    "code": "Hum 2113",
-    "name": "Economics, Government and Sociology"
+  "hum2213": {
+    "code": "Hum 2213",
+    "name": "Industrial Management and Accountancy"
   }
 }
