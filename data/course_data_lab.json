@@ -1,18 +1,18 @@
 {
-  "cse2100": {
-    "code": "CSE 2100",
-    "name": "Software Development Project I"
+  "cse2200": {
+    "code": "CSE 2200",
+    "name": "Technical Writing and Presentation Sessional"
   },
-  "cse2102": {
-    "code": "CSE 2102",
-    "name": "Discrete Mathematics Sessional"
+  "cse2202": {
+    "code": "CSE 2202",
+    "name": "Algorithm Analysis and Design Sessional"
   },
-  "cse2104": {
-    "code": "CSE 2104",
-    "name": "Digital Logic Design Sessional"
+  "cse2204": {
+    "code": "CSE 2204",
+    "name": "Numerical Methods Sessional"
   },
-  "eee2152": {
-    "code": "EEE 2152",
-    "name": "Electrical Drives and Instrumentation Sessional"
+  "cse2206": {
+    "code": "CSE 2206",
+    "name": "Microprocessors, Microcontrollers and Assembly Language Sessional"
   }
 }
